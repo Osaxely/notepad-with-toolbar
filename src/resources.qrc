@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/app_quit.png</file>
+        <file>icons/change_color.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/copy_file_path.png</file>
+        <file>icons/cut.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/file_explorer.png</file>
+        <file>icons/folder.png</file>
+        <file>icons/help.png</file>
+        <file>icons/informations.png</file>
+        <file>icons/move_path.png</file>
+        <file>icons/move_to.png</file>
+        <file>icons/new.png</file>
+        <file>icons/onedrive.png</file>
+        <file>icons/onedrive_folder.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/pin.png</file>
+        <file>icons/pinned.png</file>
+        <file>icons/printer_1.png</file>
+        <file>icons/printer_2.png</file>
+        <file>icons/recent_files.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/rename.png</file>
+        <file>icons/save.png</file>
+        <file>icons/search.png</file>
+        <file>icons/selection_all.png</file>
+        <file>icons/selection_invert.png</file>
+        <file>icons/selection_unselect.png</file>
+        <file>icons/shortcut.png</file>
+        <file>icons/tab_close.png</file>
+        <file>icons/undo.png</file>
+    </qresource>
+</RCC>
